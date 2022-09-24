@@ -13,8 +13,8 @@ I'm a full-stack web3 developer from the India. I mainly code in Javascript aand
 
 ## **Blockchain Ecosystem**
 <br/>
-<img src="./assets/ethereum.svg" width="256px" height="256px" alt="Ethereum" />
-<img src="./assets/thecelo.png" width="256px" height="256px" alt="Ethereum" />
+<img src="./assets/ethereum.svg" width="180px" height="150px" alt="Ethereum" />
+<img src="./assets/thecelo.png" width="180x" height="150px" alt="Ethereum" />
 
 ### **Frontend Stack**
 <br/>
@@ -38,15 +38,15 @@ I'm a full-stack web3 developer from the India. I mainly code in Javascript aand
 ## **Backend Stack**
 <br/>
 
-<img src="./assets/solidity.svg" width="180px" height="180px" alt="solidity" />
+<img src="./assets/solidity.svg" width="180px" height="150px" alt="solidity" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/hardhat.jpg" width="180px" height="180px" alt="hardhat" />
+<img src="./assets/hardhat.jpg" width="180px" height="150px" alt="hardhat" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/thegraph.avif" width="250px" height="180px" alt="The Graph" />
+<img src="./assets/thegraph.avif" width="180px" height="150px" alt="The Graph" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/chainlink.png" width="180px" height="180px" alt="chainlink" />
+<img src="./assets/chainlink.png" width="180px" height="150px" alt="chainlink" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/ceramic.png" width="180px" height="180px" alt="Ceramic" />
+<img src="./assets/ceramic.png" width="180px" height="150px" alt="Ceramic" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## **My Github Numbers**
@@ -78,20 +78,11 @@ I'm a full-stack web3 developer from the India. I mainly code in Javascript aand
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
 [![Linkdin][2.1]][2]
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
 [![Github][3.1]][3]
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -100,8 +91,7 @@ I'm a full-stack web3 developer from the India. I mainly code in Javascript aand
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 [1.1]: ./assets/002-twitter.png (twitter icon with padding)
 [2.1]: ./assets/001-linkedin.png (Linkdin icon with padding)
